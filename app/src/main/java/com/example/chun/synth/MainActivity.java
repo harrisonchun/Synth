@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         createMediaPlayers();
         generateSongs();
     }
-//a comment
+//a comment added
     private void generateSongs() {
         scale = new MediaPlayer[]{eNote, fSharpNote, gNote, ahNote, bhNote, chSharpNote, dhNote, ehNote};
     }
